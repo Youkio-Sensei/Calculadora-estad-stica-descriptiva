@@ -25,7 +25,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 │
 └── README.md
 
-Para su Ejecución en Visual Studio Code
+▶️ Para su Ejecución en Visual Studio Code
 
 Abre la carpeta del proyecto en VS Code
 
